@@ -1,0 +1,18 @@
+#AIMUSICWEBAPPLICATIONHEADINGTITLE{
+    font-size: 19px;
+    margin: 0px;
+    width: 100%;
+    padding: 30px;
+    box-shadow:40ch;
+    background-size: cover;
+}
+.note{
+    color:black;
+    font-size: 15px;
+}
+canvas{
+    background-color:white;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+}
